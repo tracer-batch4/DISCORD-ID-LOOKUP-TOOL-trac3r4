@@ -18,4 +18,5 @@ and achive some info about the profile using api features !
 
 Made by- @trac3r4
 
-https://github.com/tracer-batch4/DISCORD-ID-LOOKUP-TOOL-trac3r4/blob/main/Sk%C3%A4rmbild%202025-04-01%20165324.png
+![Skärmbild 2025-04-01 165324](https://github.com/user-attachments/assets/4ca3ea25-d1a9-4e23-99c4-51603e825d06)
+
