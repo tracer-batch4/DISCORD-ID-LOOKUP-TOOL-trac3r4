@@ -17,3 +17,5 @@ and achive some info about the profile using api features !
 - **🖇️ TikTok, Instagram, etc.**: Displays any linked social media accounts, like **Instagram** or **TikTok**, if connected to the user's profile.
 
 Made by- @trac3r4
+
+https://github.com/tracer-batch4/DISCORD-ID-LOOKUP-TOOL-trac3r4/blob/main/Sk%C3%A4rmbild%202025-04-01%20165324.png
