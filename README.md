@@ -3,7 +3,7 @@
 A tool written in python that lets you paste in a discord id
 and achive some info about the profile using api features !
 
-Here’s the breakdown of all the information you can get from your script using emojis and descriptions:
+--------------------------------------------------------------------------
 
 ### ✨ **Info:**
 - **🔹 Username**: The user’s Discord username and discriminator (e.g., `ExampleUser#1234`).
